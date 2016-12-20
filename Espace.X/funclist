@@ -1,0 +1,27 @@
+_Score: CODE, 6588 0 60
+_table_FIN: SMALLCONST, 1580 0 8
+_HighScore: CODE, 5694 0 162
+_Collide_check: CODE, 5996 0 120
+i2_Key_check: CODE, 6318 0 94
+_main: CODE, 1630 0 2908
+_table_one: SMALLCONST, 1604 0 8
+_Stage_draw: CODE, 5436 0 258
+_Clear: CODE, 5856 0 140
+_Meteor_gen: CODE, 5038 0 398
+___lmul: CODE, 6502 0 86
+_Meteor_move: CODE, 4538 0 500
+_number: SMALLCONST, 1536 0 30
+_IntTimer0: CODE, 8 0 342
+_table_HI: SMALLCONST, 1596 0 8
+__initialization: CODE, 6708 0 42
+_diff_speed: SMALLCONST, 1566 0 14
+_srand: CODE, 6760 0 22
+_rand: CODE, 6412 0 90
+_Key_check: CODE, 6224 0 94
+_Initialization: CODE, 6116 0 108
+_table_two: SMALLCONST, 1620 0 8
+_table_three: SMALLCONST, 1612 0 8
+_table_GO: SMALLCONST, 1588 0 8
+_Interrupt_start: CODE, 6782 0 20
+_Miss: CODE, 6648 0 60
+Total: 5596
